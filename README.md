@@ -1,2 +1,2 @@
-# coursera_test
-coursera test repository
+# python
+Python: от основ до машинного обучения
